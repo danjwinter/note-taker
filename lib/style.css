@@ -54,3 +54,15 @@ textarea, input, div, button { outline: none; }
 .active-file {
   padding: 1em;
 }
+
+.raw-file-content {
+  border: none, important! 
+  float: left;
+  display: flex;
+  margin-top: 4em;
+  min-height: 100vh;
+  max-width: 100%;
+  flex-grow: 1;
+  padding: 1em;
+  overflow: scroll;
+}
