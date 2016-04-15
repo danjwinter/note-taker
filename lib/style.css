@@ -55,9 +55,6 @@ textarea, input, div, button { outline: none; }
   padding: 1em;
 }
 
-
-/* SHIT BRENNA ADDED */
-
 h3 {
   font-weight: 100!important;
 }
@@ -111,4 +108,8 @@ button {
 button:hover {
   color: #000;
   background-color: #aaa;
+}
+.title-remove-note button {
+    float: right;
+    margin-top: -5px;
 }
