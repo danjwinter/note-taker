@@ -1,7 +1,6 @@
-# Electron React Starter Kit
+# Note Taker
 
-This is some basic scaffolding to help you get started building applications with Electron.
- It includes Babel and React.
+Note Taker is a Notes clone from the OSX system with added functionality to render markdown, open files, create and email gists and create a temporary sticky note.
 
 To get started, install the dependencies.
 
