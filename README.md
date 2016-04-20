@@ -6,7 +6,7 @@ To get started, install the dependencies.
 
 To install locally:
 
-1. Clone Repo [](git@github.com:danjwinter/note-taker.git)
+1. Clone Repo [](https://github.com/danjwinter/note-taker.git)
 2. Cd into directory
 3. Run npm install
 4. Fire up the application - npm start
